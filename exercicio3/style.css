@@ -26,11 +26,11 @@ section {
 } */
 
 #section-2 {
-  flex-grow: calc(2 / 5);
+  flex-grow: 40%;
 }
 
 #section-3 {
-  flex-grow: calc(3 / 5);
+  flex-grow: 60%;
 }
 
 #section-4 {
@@ -38,5 +38,5 @@ section {
 }
 
 #section-5 {
-  order: -2;
+  order: -1;
 }
